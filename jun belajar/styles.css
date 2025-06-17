@@ -9,8 +9,8 @@ body{
 	font-weight: 400;
 	font-size: 10px;
 	line-height: 1.7;
-	color: #fff;
-  	background-color: #1f2029;
+	color: #e5f36b;
+  	background-color: #64e6d4;
     min-height: 100vh;
     margin: 0;
     padding: 0;
@@ -19,8 +19,8 @@ body{
 p{
 	font-family: 'Poppins', sans-serif;
 	font-weight: 400;
-	font-size: 16px;
-	line-height: 1.7;
+	font-size: 20px;
+	line-height: 2.0;
 	color: #fff;
   margin: 0;
 }
